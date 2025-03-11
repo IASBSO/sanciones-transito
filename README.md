@@ -249,7 +249,7 @@
         <h3>Integrantes del Proyecto</h3>
         <ul>
             <li>Gabriela Muñoz Yepes</li>
-            <li>Santiago Rodríguez Toledo</li>
+            <li>Santiago P. Rodríguez Toledo</li>
             <li>Karol Dayana Aviléz Mendieta</li>
             <li>Mariana Mora</li>
             <li>Danna Liseth Asencio</li>
